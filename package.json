@@ -1,5 +1,6 @@
 {
   "name": "projecttwo",
+  "homepage": "https://Brahmasura.github.io/frontendTwo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "gh-pages": "^6.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "sass": "^1.69.7"
