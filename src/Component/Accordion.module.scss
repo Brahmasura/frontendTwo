@@ -1,0 +1,27 @@
+.accMainDiv {
+    margin-bottom:30px;
+
+
+  .titleDiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    p {
+      font-size: 18px;
+      font-weight: 600;
+
+      &:hover {
+        color: hsl(292, 16%, 49%);
+        cursor: pointer;
+      }
+    }
+  }
+
+  .secondPara {
+      color:hsl(292, 16%, 49%);
+      line-height: 1.4rem;
+      margin-top: 19px;
+
+  }
+}
